@@ -1,8 +1,8 @@
 # minishell
 
--Mini version of a regular terminal implemented in C.
+-Mini version of a regular shell implemented in C.
 
--Basically has the general features of a regular terminal.
+-Basically has the general features of a regular shell.
 
 
 How to run:
